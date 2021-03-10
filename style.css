@@ -11,6 +11,14 @@
   background-color: #2c3e50;
 }
 
-.counties{
+.county{
   
+}
+
+#tooltip{
+  background-color: white;
+  width: 250px;
+  padding: 10px;
+  border: solid 2px grey;
+  border-radius: 10px;
 }
